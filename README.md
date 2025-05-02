@@ -1,3 +1,5 @@
+<div align="center">
+
 # LARAVEL-PHP-PROJECT
 
 *Empower Learning, Transform Lives with Seamless Courses*
@@ -19,6 +21,8 @@ Built with the tools and technologies:
 ![Vite](https://img.shields.io/badge/-Vite-646cff?logo=vite)
 ![Axios](https://img.shields.io/badge/-Axios-9146ff?logo=axios)
 ![CSS](https://img.shields.io/badge/-CSS-563d7c?logo=css3)
+
+</div>
 
 ---
 
