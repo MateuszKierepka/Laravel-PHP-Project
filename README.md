@@ -17,7 +17,6 @@ Built with the tools and technologies:
 ![Composer](https://img.shields.io/badge/-Composer-b28f56?logo=composer)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
 
-<br>
 
 ![XML](https://img.shields.io/badge/-XML-blue?logo=xml)
 ![PHP](https://img.shields.io/badge/-PHP-777bb4?logo=php)
