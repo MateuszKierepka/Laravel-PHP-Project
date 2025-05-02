@@ -36,6 +36,8 @@ Built with the tools and technologies:
   - [Usage](#usage)
   - [Testing](#testing)
 - [Authentication](#authentication)
+  - [Key Features of Laravel Breeze](#key-features-of-laravel-breeze)
+  - [Customization](#customization)
 
 ---
 
